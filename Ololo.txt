@@ -1,0 +1,12 @@
+﻿<meta charset="utf"-8">
+<script>
+var a = parselnt(2);
+var b = parsent(3);
+alert(a*b);
+<script>
+
+
+
+ХУЙ 
+МАНДА
+СКОВОРОДА
